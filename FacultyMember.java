@@ -37,7 +37,8 @@ public class FacultyMember implements Comparable<FacultyMember>{
     }
 
     public int compareTo(FacultyMember anotherFacMem) {
-        return name.compareTo(anotherFacMem.getName());
+        String lastname = name.split("")[(name.split("").length-1)];
+        return lastname.compareTo(anotherFacMem.getName().split("")[(anotherFacMem.getName().split("").length-1)]);
     }
 
     @Override
