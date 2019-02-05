@@ -1,0 +1,57 @@
+Name: Eddy Borera
+Position: Assistant Professor
+Publications: 
+	Author(s): Author(s): Eddy C. Borera, Brett L. Moore, Anthony G. Doufas, and Larry D. Pyeatt
+	Title: An Adaptive Neural Network Filter for Improved Patient State Estimation in Closed-Loop Anesthesia Control
+	Conference/Journal Name: IEEE International Conference on Tools with Artificial Intelligence
+	Conference Location: Boca Raton, Florida
+	Year: 2011
+
+	Author(s): Author(s): Eddy C. Borera and Larry D. Pyeatt
+	Title: Offline policy optimization: Using online monte carlo simulation-based techniques to deal with changes in dynamic environments
+	Conference/Journal Name: IEEE International Conference on Intelligent Computing and Intelligent Systems
+	Conference Location: Guangzhou, China
+	Year: 2011
+
+	Author(s): Author(s): Eddy C. Borera, Brett L. Moore, and Larry D. Pyeatt
+	Title: Partially observable markov decision process for closed-loop anesthesia control
+	Conference/Journal Name: European Conference on Artificial Intelligence
+	Conference Location: Montpelier, France
+	Year: 2012
+------------
+Name: Arisoa Randrianasolo
+Position: Assistant Professor
+Publications: 
+	Author(s): Author(s): Author(s): Eddy C. Borera, Arisoa S. Randrianasolo, Madhi Naser-Moghadasi and Larry D. Pyeatt
+	Title: Pruning POMDP Value Functions with the Kaczmarz Iterative Method
+	Conference/Journal Name: Mexican International Conference on Artificial Intelligence
+	Conference Location: Pachuca, Mexico
+	Year: 2010
+
+	Author(s): Author(s): Author(s): Arisoa S. Randrianasolo and Larry D. Pyeatt
+	Title: Applying Context-Based Prediction in Adversarial Watkins' Q() Learning
+	Conference/Journal Name: International Conference on Artificial Intelligence
+	Conference Location: Las Vegas, NV
+	Year: 2011
+
+	Author(s): Author(s): Author(s): Arisoa S. Randrianasolo and Larry D. Pyeatt
+	Title: An Artificial Immune System Based on Holland's Classifier as Network Intrusion Detection
+	Conference/Journal Name: 11th International Conference on Machine Learning and Applications
+	Conference Location: Boca Raton, FL
+	Year: 2012
+------------
+Name: Christopher Simmons
+Position: Professor of Computer Science and Software Engineering
+Publications: 
+	Author(s): Author(s): Author(s): Simmons, C., Jones, D., Simmons, L.
+	Title: A Framework and Demo for Preventing Anti-Computer Forensics
+	Conference/Journal Name: Issues in Information Systems
+	Conference Location: N/A
+	Year: 2011
+
+	Author(s): Author(s): Author(s): Simmons, L. L., Simmons, C. B., Parks, R., Hayek, M., Mbarika, V. W.
+	Title: A Cultural Comparison of Trust in eLearning Artifacts
+	Conference/Journal Name: Decision Sciences Journal of Innovative Education
+	Conference Location: N/A
+	Year: 2012
+------------
